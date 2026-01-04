@@ -47,5 +47,5 @@ def main():
         [1, 7, 9],
         [8],
     ]
-    print(bfs(graph_edges, n, 1))
+    print(bfs(graph_edges, n, 3))
 main()
